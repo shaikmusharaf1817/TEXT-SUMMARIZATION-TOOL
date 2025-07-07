@@ -52,7 +52,7 @@ Only alphanumeric words are retained to eliminate punctuation and irrelevant tok
 
 This tool is particularly useful for quickly understanding the main points of lengthy content, saving time by providing a condensed version of the original material.
 
-**output:**
+# output:
 
 ![Task1 py - speech_to_text_tool - Visual Studio Code 07-07-2025 07_33_48](https://github.com/user-attachments/assets/925c00c4-9af7-40d7-8700-fe486665a523)
 
